@@ -5,3 +5,6 @@ edition = "2024"
 
 [dependencies]
 anyhow = "1.0.100"
+itertools = "0.14.0"
+ordered-float = "5.1.0"
+priority-queue = "2.7.0"
